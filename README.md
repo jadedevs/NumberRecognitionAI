@@ -1,5 +1,6 @@
 # Number Recognition AI
 A convolutional neural network that can read handwritten numerals and accurately predict what they are.
+### Please do not expect this to be perfect, it has undergone minimal updates/patches and will occasionally falsely predict the number given.
 
 ---
 
