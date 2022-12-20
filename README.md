@@ -10,6 +10,8 @@ A convolutional neural network that can read handwritten numerals and accurately
 usage: python -m make_predicton [image file path]
 ```
 
+Some example images have been provided in the repository.
+
 ---
 
 ## How to use logs
